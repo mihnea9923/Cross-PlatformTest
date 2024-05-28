@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbfIjy5MhahWbmBDBC31VG4kNM5rFwu2QsDPpWqUipnmLEowcOi184Ey1QQm3aHV9q86NdRmB1GkZt1HddZ/uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.a.toma\\source\\repos\\CompiledProgram\\CompiledProgram\\CompiledProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.a.toma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
