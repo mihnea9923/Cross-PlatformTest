@@ -1,0 +1,17 @@
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\bin\Release\net7.0\CompiledProgram.exe
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\bin\Release\net7.0\CompiledProgram.deps.json
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\bin\Release\net7.0\CompiledProgram.runtimeconfig.json
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\bin\Release\net7.0\CompiledProgram.dll
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\bin\Release\net7.0\CompiledProgram.pdb
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.csproj.AssemblyReference.cache
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.AssemblyInfoInputs.cache
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.AssemblyInfo.cs
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.csproj.CoreCompileInputs.cache
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.csproj.CopyComplete
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.dll
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\refint\CompiledProgram.dll
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.pdb
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\CompiledProgram.genruntimeconfig.cache
+C:\Users\m.a.toma\source\repos\CompiledProgram\CompiledProgram\obj\Release\net7.0\ref\CompiledProgram.dll

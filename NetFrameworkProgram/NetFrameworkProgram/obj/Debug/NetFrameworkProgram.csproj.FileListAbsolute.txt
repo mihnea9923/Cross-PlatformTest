@@ -1,0 +1,8 @@
+C:\Users\m.a.toma\source\repos\CompiledProgram\NetFrameworkProgram\NetFrameworkProgram\bin\Debug\NetFrameworkProgram.exe.config
+C:\Users\m.a.toma\source\repos\CompiledProgram\NetFrameworkProgram\NetFrameworkProgram\bin\Debug\NetFrameworkProgram.exe
+C:\Users\m.a.toma\source\repos\CompiledProgram\NetFrameworkProgram\NetFrameworkProgram\bin\Debug\NetFrameworkProgram.pdb
+C:\Users\m.a.toma\source\repos\CompiledProgram\NetFrameworkProgram\NetFrameworkProgram\obj\Debug\NetFrameworkProgram.csproj.AssemblyReference.cache
+C:\Users\m.a.toma\source\repos\CompiledProgram\NetFrameworkProgram\NetFrameworkProgram\obj\Debug\NetFrameworkProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.a.toma\source\repos\CompiledProgram\NetFrameworkProgram\NetFrameworkProgram\obj\Debug\NetFrameworkProgram.csproj.CoreCompileInputs.cache
+C:\Users\m.a.toma\source\repos\CompiledProgram\NetFrameworkProgram\NetFrameworkProgram\obj\Debug\NetFrameworkProgram.exe
+C:\Users\m.a.toma\source\repos\CompiledProgram\NetFrameworkProgram\NetFrameworkProgram\obj\Debug\NetFrameworkProgram.pdb
